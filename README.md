@@ -1,4 +1,4 @@
-# Healthcare
+# Wisconsin Breast Cancer Detection
 
 Projects related to healthcare sector.
 
